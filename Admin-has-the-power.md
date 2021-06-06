@@ -4,13 +4,13 @@
 
 
 
-# -Admin has the power
+# Admin has the power
 
 
 
 - when you opne the page you can right click and view the page source code.
 
-- we will see the <!-- TODO: remove this line ,  for maintenance purpose use this info (user:support password:x34245323)-->
+- we will see the `<TODO: remove this line ,  for maintenance purpose use this info (user:support password:x34245323)>`
 
 - here we can login with username=support and password=x34245323
 
