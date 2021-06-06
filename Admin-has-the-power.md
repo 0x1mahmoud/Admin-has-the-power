@@ -22,4 +22,4 @@
 
 - the challenge say Admin has the power so the role=admin
 
-- you will see the flag: `hiadminyouhavethepower
+- you will see the flag: `hiadminyouhavethepower`
