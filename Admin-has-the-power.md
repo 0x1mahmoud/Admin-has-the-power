@@ -1,10 +1,10 @@
 # Cybertalants-writeup
 
-# Web Security challenges
+## Web Security challenges
 
 
 
-# Admin has the power
+### Admin has the power
 
 
 
@@ -23,3 +23,5 @@
 - the challenge say Admin has the power so the role=admin
 
 - you will see the flag: `hiadminyouhavethepower`
+
+---------------------------------------------------------------------------------------------------------
